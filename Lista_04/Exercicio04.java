@@ -10,7 +10,7 @@ o preço de cada um dos produtos e ao final calcular e informar o total do
 faturamento com cada produto e o faturamento total.
 */
 
-public class Exe04 {
+public class Lista04_Exe04 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
