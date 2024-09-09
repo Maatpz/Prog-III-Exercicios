@@ -9,7 +9,7 @@ mensagem "Não pode votar"; caso contrário, emitir a mensagem
 "É eleitor".
 */
 
-public class exer01 {
+public class exer02 {
 	public static void main(String[] args) {
 		
 		       Scanner scanner = new Scanner(System.in);
