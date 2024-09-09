@@ -1,2 +1,2 @@
-# Lista04_Exercicios
- ExerciciosJava
+# Lista_Exercicios
+ Exercicios Java
