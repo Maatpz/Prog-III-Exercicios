@@ -14,6 +14,10 @@ public abstract class Funcionario {
     public int getId() {
         return id;
     }
+    
+    public void setId(int id) {
+        this.id = id;
+    }
 
     public String getNome() {
         return nome;
@@ -21,6 +25,14 @@ public abstract class Funcionario {
 
     public double getSalario() {
         return salario;
+    }
+
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+
+    public void setSalario(double salario) {
+        this.salario = salario;
     }
 
     public void receberAumento(double aumento) {

@@ -4,5 +4,5 @@
 /**
  * 
  */
-module AV2_projeto {
+module TDE_projeto {
 }
